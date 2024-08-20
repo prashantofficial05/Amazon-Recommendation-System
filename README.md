@@ -8,6 +8,5 @@
     But when it comes to a website like Amazon, it needs to add more criteria to recommend products to the users such as the quality of the product. A good quality product will always have a good collection of 
     reviews so we can use both the similarity score and product reviews to generate recommendations. 
 
-# Amazon Recommendation System using Python
     I will try to use the fewer Python libraries I can for creating this recommendation system. To work with data I will be using only pandas and NumPy library in Python. So let’s import the data and see how to 
     create an Amazon Recommendation System using Python
